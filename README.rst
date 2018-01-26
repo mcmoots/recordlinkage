@@ -1,3 +1,14 @@
+HACKATHON PROJECT WARNING
+=========================
+
+This is a hackathon project slapping together a Django web interface for
+for manually de-duping data with the aid of the Python Record Linkage Toolkit.
+
+Code is serious garbage, but feel free to contact me with questions about the business 
+use case or eventual outcomes of the project.
+
+
+
 Python Record Linkage Toolkit
 =============================
 
